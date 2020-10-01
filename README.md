@@ -9,5 +9,11 @@ spaCy is an open-source software library for advanced natural language processin
 - Parser ( Dependency Parser)
 - NER (Named Entity Recognition)
 
+- Please go though this link to learn ore about spaCy: https://spacy.io/usage/training
+
+- Our main agenda is to implement a custom sentiment model for capturing the sentiment of tweets using the specific portion of the text.
+
+- Generating train dataset is the major challenge for NLP modeling problems. We have used Prodigy to create our own dataset for training the text dataset.
+
 
 
