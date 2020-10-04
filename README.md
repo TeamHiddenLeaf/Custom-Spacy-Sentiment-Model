@@ -34,6 +34,7 @@ The test dataset has following columns/attributes:
 
 ### Prediction snapshot
 
+<img width="541" alt="Capture" src="https://user-images.githubusercontent.com/66754032/95028170-f2cd4580-0663-11eb-8311-29378dbd72b3.PNG">
 
 We have used Jaccard Similarity metric to evaluate the text similarity!
 
