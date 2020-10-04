@@ -28,7 +28,11 @@ The test dataset has following columns/attributes:
 3. sentiment: The emotion associated with the text(Positive, Negative, and Neutral)
 4. selected_text: Predict the word/words that influence the polarity of the text
 
-- Train dataset snapshot
+### Train dataset snapshot
+
+<img width="492" alt="Capture" src="https://user-images.githubusercontent.com/66754032/95028113-8a7e6400-0663-11eb-9cfe-55e4d2ee373d.PNG">
+
+### Prediction snapshot
 
 
 We have used Jaccard Similarity metric to evaluate the text similarity!
