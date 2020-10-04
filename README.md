@@ -11,7 +11,7 @@ spaCy is an open-source software library for advanced natural language processin
 
 - Please go though this link to learn more about spaCy: https://spacy.io/usage/training
 
-## Our main agenda is to implement a custom sentiment model to predict the words/word in a text that ultimately decides/influences the sentiment/emotion of a text . 
+### Our main agenda is to implement a custom sentiment model to predict the words/word in a text that ultimately decides/influences the sentiment/emotion of a text . 
 
 
 We have used Prodigy (https://prodi.gy/) to create our own dataset for training the text dataset.
