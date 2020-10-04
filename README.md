@@ -14,7 +14,22 @@ spaCy is an open-source software library for advanced natural language processin
 ### Our main agenda is to implement a custom sentiment model to predict the words/word in a text that ultimately decides/influences the sentiment/emotion of a text . 
 
 
-We have used Prodigy (https://prodi.gy/) to create our own dataset for training the text dataset.
+To acheive this, we are using self-annotated dataset using Prodigy. The train dataset has following columns/attributes:
+
+1. textID: text identifier
+2. text: review/tweets in the form of text
+3. sentiment: The emotion associated with the text (Positive, Negative, and Neutral)
+4. selected_text: Part of text that plays a major contribution in deciding the sentiment of the text
+
+The test dataset has following columns/attributes:
+
+1. textID: text identifier
+2. text: review/tweets in the form of text
+3. sentiment: The emotion associated with the text(Positive, Negative, and Neutral)
+4. selected_text: Predict the word/words that influence the polarity of the text
+
+- Train dataset snapshot
+
 
 We have used Jaccard Similarity metric to evaluate the text similarity!
 
