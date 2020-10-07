@@ -38,6 +38,8 @@ The test dataset has following columns/attributes:
 
 We have used Jaccard Similarity metric to evaluate the text similarity!
 
+Credits: Rohit Singh Kaggle
+
 
 Happy Coding!
 
